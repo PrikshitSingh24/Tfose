@@ -1,0 +1,3 @@
+[submodule "Tfose/vendor/spdlog"]
+	path = Tfose/vendor/spdlog
+	url = https://github.com/gabime/spdlog

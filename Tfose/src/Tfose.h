@@ -1,7 +1,6 @@
 #pragma once
 
-#include <stdio.h>
 
 #include "Tfose/Application.h"
-
+#include "Tfose/Log.h"
 #include "Tfose/EntryPoint.h"

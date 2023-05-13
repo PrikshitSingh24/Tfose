@@ -2,15 +2,7 @@
 
 class Sandbox : public Tfose::Application {
 public:
-	Sandbox(){
-
-
-	}
-
-	~Sandbox(){
-
-
-	}
+	
 };
 
 Tfose::Application* Tfose::CreateApplication() {

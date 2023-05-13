@@ -27,9 +27,15 @@
     <ClInclude Include="src\Tfose\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Tfose\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Tfose\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Tfose\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
