@@ -10,3 +10,5 @@
 	#error Tfose only supports windows!!!
 
 #endif // TF_PLATFORM_WINDOWS
+
+#define BIT(x) (1 << x) 
